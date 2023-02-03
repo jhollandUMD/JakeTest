@@ -5,4 +5,4 @@ if score < 0:
 elif score > 0:
     print('Positive')
 else:
-    print('Indifferent')
+    print('Neutral')
